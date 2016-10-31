@@ -1,0 +1,17 @@
+#header {
+  display: none;
+}
+
+
+#show-task {
+  display: none;
+}
+.task {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.task:hover {
+  cursor: pointer;
+  color: #0088cc;
+}
